@@ -2,7 +2,7 @@
 # conditionals a == b, a != b, a < b, a <= b, a > b, a >= b
 
 
-calculate_to_units = 24
+calculate_to_units = 5
 name_of_unit = "seconds"
 num_of_days = 3
 
